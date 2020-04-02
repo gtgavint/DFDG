@@ -1,5 +1,5 @@
 # DFDG
-DeepFake Detection and Generation Repository that contains all files and links in a centralised location easily accessible by all members.  </br></br></br>
+DeepFake Detection and Generation Repository that contains all files and links in a centralised location easily accessible by all members.  </br></br>
 ## Contents
 **Articles-and-Information**</br>
 Dir that contains all the helpful articles, websites and whitepapers used to obtain a better insight and gather additional information regarding DeepFakes.</br></br>
