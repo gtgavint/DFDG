@@ -1,4 +1,4 @@
-## General Information (For Both G and D)##
+## General Information (For Both G and D) ##
 LINK
 
 ## Generation Focused ##
