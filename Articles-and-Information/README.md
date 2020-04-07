@@ -6,6 +6,8 @@ LINK
 https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-explained-and-tutorials-recommended
 <br>
 https://mc.ai/creating-your-own-deepfake-using-iperovs-deepfacelab/
+<br>
+https://pub.dfblue.com/pub/2019-10-25-deepfacelab-tutorial
 
 ### This Article is About how to create datasets ###
 https://mrdeepfakes.com/forums/thread-guide-celebrity-faceset-dataset-creation-how-to-create-celebrity-facesets
