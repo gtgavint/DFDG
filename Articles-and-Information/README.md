@@ -16,8 +16,8 @@ https://mrdeepfakes.com/forums/thread-guide-celebrity-faceset-dataset-creation-h
 LINK
 
 ## Detection Focused ##
-### This Article is About ??? ###
-LINK
+### This Article is About detecting deepfakes ###
+http://theconversation.com/detecting-deepfakes-by-looking-closely-reveals-a-way-to-protect-against-them-119218
 
 ### This Article is About ??? ###
 LINK
