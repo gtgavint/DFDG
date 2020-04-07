@@ -1,3 +1,6 @@
+## Definition and What Consitutes a DeepFake 
+I will do tmr Ashley
+
 ## General Information (For Both G and D) ##
 LINK
 
